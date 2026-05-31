@@ -1,8 +1,9 @@
-# V15.3 Code Snapshot
+# V15 Code Snapshot
 
-Version label: `v15.3`
+This directory is preserved in DATAMIX as the V15 server code snapshot.
 
-This directory is preserved in DATAMIX as the V15.3 server code snapshot.
+The server-side V15 training had three numbered attempts. See `ATTEMPTS.md`
+for the mapping of `attempt 1`, `attempt 2`, and `attempt 3`.
 
 Original server path:
 
