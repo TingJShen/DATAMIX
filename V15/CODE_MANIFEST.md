@@ -1,3 +1,17 @@
+# V15.3 Code Snapshot
+
+Version label: `v15.3`
+
+This directory is preserved in DATAMIX as the V15.3 server code snapshot.
+
+Original server path:
+
+```text
+5090_Lian:/zhdd/home/tjshen/260415_ArcherA100/v15
+```
+
+## Original Manifest
+
 # V13 Lightweight Code Manifest
 
 ## Provenance
